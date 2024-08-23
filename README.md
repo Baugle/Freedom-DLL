@@ -1,4 +1,4 @@
-# Freedom
+# DLL
 Minimal programming  
 You can use the DLL to make your own program  
 call "Freedom" to use the dll  
